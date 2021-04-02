@@ -1,6 +1,4 @@
 
-//br
-
 var canvas = new fabric.Canvas('myCanvas');
 
 player_x = 10;
